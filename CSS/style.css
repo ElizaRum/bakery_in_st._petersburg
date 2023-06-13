@@ -80,7 +80,7 @@ nav {
 	background-position: center;
 	background-size: cover; 
 	- По факту можно сделать все в общем свойстве Беграунд, что мы и оставим*/
-	background: url(../img/01-Картинка-фона.jpg) center/cover no-repeat;
+	background: url(../img/01-background-image.jpg) center/cover no-repeat;
 	position: relative;
 	margin-bottom: 20px;
 }
